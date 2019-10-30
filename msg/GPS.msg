@@ -1,0 +1,22 @@
+Header header
+float64 Long_Rel
+float64 Lat_Rel
+float64 In_Height
+float64 Tilt_Roll
+float64 Tilt_Pitch
+float64 Tilt_Yaw
+float64 Vel_x
+float64 Vel_y
+float64 Vel_z
+float64 Std_Dev_x
+float64 Std_Dev_y
+float64 Std_Dev_z
+float64 Std_Dev_roll
+float64 Std_Dev_pitch
+float64 Std_Dev_yaw
+float64 Std_Dev_vel_x
+float64 Std_Dev_vel_y
+float64 Std_Dev_vel_z
+float64 Abs_Lat
+float64 Abs_Long
+
