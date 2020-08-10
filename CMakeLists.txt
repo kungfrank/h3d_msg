@@ -52,6 +52,8 @@ find_package(catkin REQUIRED COMPONENTS
    Steer.msg
    GPS.msg
    PCF.msg
+	 Label.msg
+	 LabelArray.msg
    #Message2.msg
  )
 

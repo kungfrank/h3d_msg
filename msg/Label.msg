@@ -1,0 +1,11 @@
+Header header
+string object
+string id
+string state
+float32 x
+float32 y
+float32 z
+float32 scaleX
+float32 scaleY
+float32 scaleZ
+float32 yaw
